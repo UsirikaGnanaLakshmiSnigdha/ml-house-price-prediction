@@ -86,9 +86,20 @@ Predicted Price: 240000
 
 ---
 
+## 🌐 Streamlit Web Application
+The project is also implemented as a web application using **Streamlit**.
+
+Users can enter the house area in square feet and get the predicted price instantly through a browser interface.
+
+To run the Streamlit app:streamlit run streamlit_app.py
+
+
+---
+
 ## 👩‍💻 Author
 **Usirika Gnana Lakshmi Snigdha**  
 B.Tech – Artificial Intelligence & Data Science
+
 
 
 
